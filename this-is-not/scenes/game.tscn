@@ -1,7 +1,8 @@
-[gd_scene load_steps=3 format=3 uid="uid://2lfep4fisyjc"]
+[gd_scene load_steps=4 format=3 uid="uid://2lfep4fisyjc"]
 
 [ext_resource type="Script" uid="uid://0si11p0p0h5k" path="res://scripts/typewrite.gd" id="1_uwrxv"]
 [ext_resource type="FontFile" uid="uid://b4thjvn5646wx" path="res://assets/fonts/DepartureMono-Regular.otf" id="1_yqjtg"]
+[ext_resource type="Script" uid="uid://bf6slyro887kn" path="res://scenes/button.gd" id="3_lnu2h"]
 
 [node name="Game" type="Node2D"]
 
@@ -23,6 +24,7 @@ offset_bottom = 642.0
 color = Color(0.99215686, 0.972549, 0.84705883, 1)
 
 [node name="ColorRect2" type="ColorRect" parent="."]
+visible = false
 z_index = -3999
 offset_left = 317.0
 offset_top = 482.0
@@ -37,3 +39,12 @@ offset_right = 5317.0
 offset_bottom = 5047.0
 scale = Vector2(0.10205042, 0.0924237)
 expand_mode = 2
+
+[node name="Button" type="Button" parent="."]
+offset_left = 529.0
+offset_top = 39.0
+offset_right = 633.0
+offset_bottom = 72.0
+script = ExtResource("3_lnu2h")
+
+[connection signal="pressed" from="Button" to="Button" method="_on_pressed"]
