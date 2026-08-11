@@ -5,12 +5,13 @@ extends Button
 func _ready():
 	Dialogic.signal_event.connect(DialogicSignal)
 	pass # Replace with function body.
-
+	
 
 
 func _on_pressed():
 	Dialogic.timeline_ended.connect(ended)
 	Dialogic.start("timeline1")
+	hide()  # <-- hides the button itself
 	pass 
 	
 func ended():

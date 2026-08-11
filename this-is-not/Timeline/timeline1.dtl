@@ -1,8 +1,15 @@
+[background arg="res://assets/img_line01.png" fade="1.0"]
 I would have never imagined that a cloud could contemplate on itself.
+[background arg="res://assets/img_line02.png" fade="0.0"]
 Being subject and object at the same time
+[signal arg="play_idle"]
+[background arg="res://assets/img_line03.png" fade="0.0"]
 [signal arg="test"]
-In my  constant transformation, which a fundamental part of my  being, I assemble a disourse on myself
+In my  constant transformation, which is a fundamental part of my  being, I assemble a discourse on myself
+[signal arg="hide_sprite"]
+[background arg="res://assets/img_line04.png" fade="0.0"]
 What is time when you're just a mass of gas and water with no precise shape?
+[background fade="0.0"]
 - Time is a construct of your own mind, it doesn't really exisit.
 	Is  the concept of mind a concept itself?
 - well, time is liquid and gas at the same time, just like you.
