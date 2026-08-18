@@ -1,0 +1,59 @@
+:: StoryTitle
+that is not what I mean at all
+
+
+:: StoryData
+{
+  "ifid": "0C7870BD-135A-4EF0-B7AA-8C80061DE114",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Luce {"position":"750,600","size":"100,100"}
+Apri gli occhi, lentamente. La luce penetra attraverso quelle piccole fessure pelose e umide. 
+
+(set:$luce to 1)
+
+
+:: Scelta Rorschach {"position":"825,475","size":"100,100"}
+Non c'è niente se non luce e suono. Questi sono gli ingredienti di questa storia. 
+
+[[Luce]] 
+[[Suono]]
+
+
+:: Senti qualcosa in lontananza? {"position":"800,175","size":"100,100"}
+Un suono difficile da identificare, un suono opaco, privo di contorni. 
+Quasi  come se la nebbia avesse deciso di trasformarsi in suono. 
+
+[[Ti soffermi sul suono senza contorni]]
+[[Strane forme luminose appaiono sulle pareti nere dei tuoi occhi chiusi]]
+
+
+
+
+:: Strane forme luminose appaiono sulle pareti nere dei tuoi occhi chiusi {"position":"750,325","size":"100,100"}
+Cromosomi dorati si muovono velocemente sulle tue pupille chiuse. Macchie di luce appaiono e scompaiono senza lasciare il tempo di identificare la loro forma. 
+Ma è davvero necessario dover sempre dare una forma alle cose? E se questa storia stessa non avesse una forma ma soltanto orizzonti infiniti dove perdersi? 
+[[Cosa vedi in quelle macchie di luce?|Scelta Rorschach]]
+
+
+:: Suono {"position":"925,600","size":"100,100"}
+Ti concentri sugli altri suoni che ti circondano e lentamente metti a fuoco altre elementi dello spazio che ti circonda. 
+
+(set:$suono to 1)
+
+
+:: Ti soffermi sul suono senza contorni {"position":"875,325","size":"100,100"}
+I suoni lontani non sono altro che la versione acustica delle macchie di Rorschach. Sono tutto o niente, indistinguibili nella loro non forma ma portatori di verità da svelare. 
+é così importante dover dare una forma precisa a tutto? E se la storia stessa non avesse forme ma solo spazi senza orizzonti in cui muoversi? 
+[[Cosa senti veramente in quel suono lontano?|Scelta Rorschach]]
+
+
+
+:: Untitled Passage {"position":"800,50","size":"100,100"}
+Una leggera brezza ti sfiora l'orecchio destro per poi immediatamente dispiegarsi sulla guancia e infine fermarsi sulla punta del naso. Ti sforzi di tenere gli occhi chiusi. 
+[[Senti qualcosa in lontananza?]]
