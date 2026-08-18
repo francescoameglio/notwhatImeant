@@ -17,6 +17,15 @@ Apri gli occhi, lentamente. La luce penetra attraverso quelle piccole fessure pe
 
 (set:$luce to 1)
 
+[[Luce Acustica]] 
+
+
+
+:: Luce Acustica {"position":"850,775","size":"100,100"}
+Ci sono solo echi. 
+
+
+
 
 :: Scelta Rorschach {"position":"825,475","size":"100,100"}
 Non c'è niente se non luce e suono. Questi sono gli ingredienti di questa storia. 
@@ -33,8 +42,6 @@ Quasi  come se la nebbia avesse deciso di trasformarsi in suono.
 [[Strane forme luminose appaiono sulle pareti nere dei tuoi occhi chiusi]]
 
 
-
-
 :: Strane forme luminose appaiono sulle pareti nere dei tuoi occhi chiusi {"position":"750,325","size":"100,100"}
 Cromosomi dorati si muovono velocemente sulle tue pupille chiuse. Macchie di luce appaiono e scompaiono senza lasciare il tempo di identificare la loro forma. 
 Ma è davvero necessario dover sempre dare una forma alle cose? E se questa storia stessa non avesse una forma ma soltanto orizzonti infiniti dove perdersi? 
@@ -46,12 +53,15 @@ Ti concentri sugli altri suoni che ti circondano e lentamente metti a fuoco altr
 
 (set:$suono to 1)
 
+[[Luce Acustica]]
+
+
+
 
 :: Ti soffermi sul suono senza contorni {"position":"875,325","size":"100,100"}
 I suoni lontani non sono altro che la versione acustica delle macchie di Rorschach. Sono tutto o niente, indistinguibili nella loro non forma ma portatori di verità da svelare. 
 é così importante dover dare una forma precisa a tutto? E se la storia stessa non avesse forme ma solo spazi senza orizzonti in cui muoversi? 
 [[Cosa senti veramente in quel suono lontano?|Scelta Rorschach]]
-
 
 
 :: Untitled Passage {"position":"800,50","size":"100,100"}

@@ -10,6 +10,6 @@ func _ready() -> void:
 func _on_dialogic_signal(argument: String):
 	if argument == "play_idle":
 		show()
-		play("idle")
+		play("moving")
 	if argument == "hide_sprite":
 		hide()

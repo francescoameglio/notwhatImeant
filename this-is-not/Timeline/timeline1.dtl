@@ -3,7 +3,7 @@ I would have never imagined that a cloud could contemplate on itself.
 [background arg="res://assets/img_line02.png" fade="0.0"]
 Being subject and object at the same time
 [signal arg="play_idle"]
-[background arg="res://assets/img_line03.png" fade="0.0"]
+[background fade="0.0"]
 [signal arg="test"]
 In my  constant transformation, which is a fundamental part of my  being, I assemble a discourse on myself
 [signal arg="hide_sprite"]
@@ -15,4 +15,5 @@ What is time when you're just a mass of gas and water with no precise shape?
 - well, time is liquid and gas at the same time, just like you.
 	so I am made of the same substance of time.
 I would like to talk about a couple of things with you if you don't mind...
+[background arg="res://assets/Test_Sprite.png" fade="0.0"]
 It won't take long, I promise
