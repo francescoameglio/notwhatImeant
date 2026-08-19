@@ -1,0 +1,22 @@
+[gd_scene load_steps=3 format=3 uid="uid://dkxwc0k615jrk"]
+
+[ext_resource type="PackedScene" uid="uid://dhw4n6jqrgnkh" path="res://scenes/Slot_Node.tscn" id="1_tsarw"]
+[ext_resource type="Texture2D" uid="uid://c6bcxwtnn7x61" path="res://assets/FloppyDisk.png" id="2_bh46f"]
+
+[node name="TestMouseHover" type="Node2D"]
+
+[node name="Background" type="ColorRect" parent="."]
+z_index = -4000
+offset_right = 1154.0
+offset_bottom = 649.0
+color = Color(0.8156863, 0.7921569, 0.69803923, 1)
+
+[node name="TextureRect" parent="Background" instance=ExtResource("1_tsarw")]
+layout_mode = 0
+offset_left = 128.00002
+offset_top = 63.000008
+offset_right = 206.00002
+offset_bottom = 134.0
+scale = Vector2(1.3018712, 1.3018712)
+texture = ExtResource("2_bh46f")
+text = "A floppy disk"

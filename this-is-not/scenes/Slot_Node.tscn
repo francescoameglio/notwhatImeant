@@ -1,0 +1,44 @@
+[gd_scene load_steps=3 format=3 uid="uid://dhw4n6jqrgnkh"]
+
+[ext_resource type="Script" uid="uid://hafhhm6j7lw2" path="res://scripts/slot_node.gd" id="1_cv7a5"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_wkic1"]
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0, 0, 0, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[node name="TextureRect" type="TextureRect"]
+offset_left = 46.0
+offset_right = 124.0
+offset_bottom = 71.0
+script = ExtResource("1_cv7a5")
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+visible = false
+z_index = 1
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+scale = Vector2(0.2, 0.2)
+theme_override_styles/panel = SubResource("StyleBoxFlat_wkic1")
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer"]
+layout_mode = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="Label" type="Label" parent="PanelContainer/MarginContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 40
+text = "test"
+
+[connection signal="mouse_entered" from="." to="." method="_on_mouse_entered"]
+[connection signal="mouse_exited" from="." to="." method="_on_mouse_exited"]
