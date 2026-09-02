@@ -23,7 +23,8 @@ Dialogic="*res://addons/dialogic/Core/DialogicGameHandler.gd"
 
 directories/dch_directory={}
 directories/dtl_directory={
-"timeline1": "res://Timeline/timeline1.dtl"
+"timeline1": "res://Timeline/timeline1.dtl",
+"timeline_test": "res://Timeline/timeline_test.dtl"
 }
 layout/style_directory={
 "": "res://Styles/new_style.tres",
@@ -63,6 +64,10 @@ audio/channel_defaults={
 "loop": true,
 "volume": 0.0
 }
+}
+variables={
+"drink": "Beer",
+"eat": "Pizza"
 }
 
 [editor_plugins]

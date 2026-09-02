@@ -13,7 +13,29 @@ that is not what I mean at all
 
 
 :: ... {"position":"800,625","size":"100,100"}
-Stupito di parlare con una nuvola? Ma se parlavate con le piante non mi sembra una cosa così inverosimile. 
+Stupito? 
+Non è che l'inizio... 
+Ti sei chiesto perché sei l'unico essere umano qui presente? 
+
+
+[[A dire la verità non me ne ero neanche accorto...]]
+[[Ci ho pensato ma non credo di volerlo sapere...]]
+
+
+
+
+:: A dire la verità non me ne ero neanche accorto... {"position":"700,750","size":"100,100"}
+Mi sembra giusto. Dopo tutto non sai neanche bene il motivo per cui siamo qui. Quasi come se ci fossimo incontrati in un bar a caso dopo tanti anni. ''La casualità del tempo''. 
+
+Se non sei di fretta o hai impegni urgenti posso farti un riassunto di quello che è successo negli ultimi 13.000 anni. 
+
+[[Credo mi dovrò sedere un attimo, mi manca l'aria|Riassunto]]
+[[Possiamo fare due passi mentre mi racconti? Ho bisogno di sgranchirmi le gambe|Riassunto]]
+
+
+
+
+
 
 
 :: Ci conosciamo? {"position":"675,175","size":"100,100"}
@@ -32,16 +54,57 @@ Sarebbe stato tutto diverso o semplicemente uguale identico?
 
 
 
+:: Ci ho pensato ma non credo di volerlo sapere... {"position":"925,750","size":"100,100"}
+Giusta osservazione. Anche perchè riassumere 13.000 anni in una manciata di righe potrebbe diventare più complesso del previsto. Però è necessario che tu conosca almeno uno o due punti cruciali del passato... Sarò breve e concisa. 
+
+
+[[Credo mi dovrò sedere un attimo, mi manca l'aria|Riassunto]]
+[[Possiamo fare due passi mentre mi racconti? Ho bisogno di sgranchirmi le gambe|Riassunto]]
+
+
+
+
+:: Come? {"position":"800,1300","size":"100,100"}
+Guardati bene intorno, prova a concentrarti sulla profondità del paesaggio. Noti qualcosa di insolito? 
+
+
+[[Il cielo sembra non avere fine|nuvole che spariscono]]
+[[Ho come l'impressione che se ne siano andati via tutti di fretta senza lasciare niente dietro|nuvole che spariscono]]
+
+
+
 :: Diverso {"position":"750,350","size":"100,100"}
-Il silenzio e la parola non sono altro che due facce della stessa moneta. Possiamo lanciarla in aria quante volte vogliamo, possiamo ingannarci che le cose sarebbero andate diversamente ma per quanto possiamo sforzarci di ingannare il caso ci sarà sempre una fine. Ed è esattamente questo il motivo per cui tu sei qui con me. Per dimostrare che nulla è eterno, neanche io. 
+Il silenzio e la parola non sono altro che due facce della stessa moneta. Possiamo lanciarla in aria quante volte vogliamo, possiamo ingannarci che le cose sarebbero andate diversamente ma per quanto ci sforziamo di ingannare il caso ci sarà sempre una fine. Ed è esattamente questo il motivo per cui tu sei qui con me. Per dimostrare che nulla è eterno, neanche io. 
 
 [[Ma tu chi sei?]]
 
 
 
 
+:: Dove stiamo andando? {"position":"800,1550","size":"100,100"}
+La destinazione è irrilevante quando il tuo moto non è altro che un'attrazione verso la fine.
+
+L'unica cosa che sembra avere un briciolo di importanza è il lasciarsi andare, trascinati dalle ultime correnti ventose prima che cessino del tutto. 
+
+Sarà un mondo senza vento questo, almeno per qualche migliaia di anni. 
+
+[[Mi piaceva il vento, era una forma di cura]]
+
+
+
+
+:: Facile, tu non hai forme, sei l'emblema della mutazione. Per noi era difficile uscire dalla linearità dell'esistenza {"position":"925,2150","size":"100,100"}
+Voi eravate terrorizzati della linearità. L'ansia è il dolore del passato e la paura del futuro. 
+Se solo aveste preso le distanze da quella linea...
+
+Dove preferisci andare?
+
+[[Vorrei vedere da più vicino quelle montagne]]
+[[Sbaglio o quella laggiù è acqua?]]
+
+
 :: Identico {"position":"900,350","size":"100,100"}
-Ed è esattamente questa la prova inconfutabile che niente è eterno, Per quanto possiamo sforzarci di ingannare il caso ci sarà sempre una fine. Ed è esattamente questo il motivo per cui tu ora sei qui con me. Per dimostrare che il "Principio" e la "Fine" sono due facce della stessa moneta e ne io, men che meno tu, siamo immortali.
+Ed è esattamente questa la prova inconfutabile che niente è eterno, Per quanto possiamo sforzarci di ingannare il caso ci sarà sempre una fine. Questo è il motivo per cui tu ora sei qui con me. Per dimostrare che il "Principio" e la "Fine" sono due facce della stessa moneta e ne io, men che meno tu, siamo immortali.
 
 [[Ma tu chi sei?]] 
 
@@ -50,20 +113,27 @@ Ed è esattamente questa la prova inconfutabile che niente è eterno, Per quanto
 
 
 
-:: Luce {"position":"25,525","size":"100,100"}
-Apri gli occhi, lentamente. La luce penetra attraverso quelle piccole fessure pelose e umide. 
+:: L'aria ha un sapore strano e un peso insostenibile {"position":"925,1150","size":"100,100"}
+L'aria che stai respirando in questo momento è così per svariati motivi ma principalmente perchè negli ultimi 2000 anni le componenti dell'atmosfera sono cambiate. Rispetto all'aria che eri solito immettere nei tuoi polmoni questa è diventata più densa, come se si fosse compressa in se stessa. 
+Questo processo ha messo in moto altri processi che hanno coinvolto anche noi nuvole...
 
-(set:$luce to 1)
-
-[[Luce Acustica]]
+[[Come?]] 
 
 
-:: Luce Acustica {"position":"100,700","size":"100,100"}
-Ci sono solo echi.
+
+
+:: La luce mi sembra diversa da come la conosco, come se non avesse fine {"position":"700,1150","size":"100,100"}
+Osservazione più che giusta la tua. 
+La luce è così per svariati motivi ma principalmente perchè negli ultimi 2000 anni le componenti dell'atmosfera sono cambiate. Rispetto all'aria che conosci tu questa è diventata più densa, come se si fosse compressa in se stessa. 
+Questo processo ha messo in moto altri processi che hanno coinvolto anche noi nuvole...
+
+[[Come?]]
+
 
 
 :: Ma tu chi sei? {"position":"800,500","size":"100,100"}
-Questa domanda è più che legittima ma soprattutto è la prima volta che ci presentiamo nella maniera "umana". Io sono quella che voi chiamate nuvola, secondo la vostra scienza sono un fenomeno metereologico di condensazione dell'umidità presente nell'atmosfera del pianeta che voi avete chiamato Terra. 
+Domanda più che legittima la tua. 
+è la prima volta che ci presentiamo nella maniera "umana". Io sono quella che voi chiamate ''nuvola'', secondo la vostra scienza sono un fenomeno metereologico di condensazione dell'umidità presente nell'atmosfera del pianeta che voi avete chiamato Terra. 
 
 [[...]]
 
@@ -72,7 +142,61 @@ Questa domanda è più che legittima ma soprattutto è la prima volta che ci pre
 
 
 
-:: Quali cose? {"position":"925,175","size":"100,100"}
+:: Mi piaceva il vento, era una forma di cura {"position":"800,1675","size":"100,100"}
+Il vento per noi è tutto. 
+Senza di lui non esisteremmo.
+Siamo esseri senza una forma precisa se non quella che possediamo in ogni istante. 
+
+La forma diventa il nostro orologio. Vedi per noi non esistono i secondi, i minuti, le ore, i giorni quando non c'è nessuno in grado di interpretarli. Non sono altro che meri costrutti umani che perdono di significato una volta che essi stessi cessano di esistere. Ma il tempo ha infinite forme come nessuna. Sta nell'essere pensante interpretare e costruire un sistema di concetti che provano a definire il presente, passato e futuro.
+
+
+[[Non immaginavo che le nuvole potessero pensare...]]
+[[Non mi aspettavo che aveste un concetto di tempo..]]
+
+
+:: No, ma non c'era redenzione, eravamo condannati a vivere così perchè non abbiamo mai pensato potesse essere diverso {"position":"550,2150","size":"100,100"}
+La redenzione era davanti a voi ma non ve ne siete mai accorti perchè eravate troppo indaffarati nel nutrire il vostro ego. 
+
+Dove preferisci andare?
+
+[[Vorrei vedere da più vicino quelle montagne]]
+[[Sbaglio o quella laggiù è acqua?]]
+
+
+
+:: Non immaginavo che le nuvole potessero pensare... {"position":"700,1800","size":"100,100"}
+Classica risposta umana questa... Se esisti esiste anche il pensiero stesso della tua esistenza. Io esisto nella stessa forma in cui tu sei esistito. 
+
+Ciò che ci contraddistingue da voi è che la nostra forma non conosce la stabilità. Il tempo assume un significato più poliedrico, come se avesse più dimensioni. Ci muoviamo secondo forze che vanno al di là del nostro volere. Siamo l'emblema di quella frase tanto abusata ma mai capita veramente: "lasciarsi andare"
+
+[[ho sempre pensato che le nuvole fossero immortali]] 
+[[noi esseri umani ci siamo lasciati andare, guarda cosa è successo]] 
+
+
+
+:: Non mi aspettavo che aveste un concetto di tempo.. {"position":"925,1800","size":"100,100"}
+Classica risposta da esserere umano. 
+
+<!--descrivere meglio questa parte del tempo e arroganza umana-->
+
+Nella nostra forma che non conosce la stabilità il tempo assume un significato più poliedrico, come se avesse contemporaneamente più dimensioni. Ci muoviamo secondo forze che vanno al di là del nostro volere. Siamo l'emblema di quella frase tanto abusata ma mai capita veramente: "lasciarsi andare".
+
+[[noi esseri umani ci siamo lasciati andare, guarda cosa è successo]]
+[[ho sempre pensato che le nuvole fossero immortali]]
+
+
+:: Puff, spariti {"position":"800,1025","size":"100,100"}
+Se devo essere sincera non abbiamo sentito granché la vostra mancanza. C'era sicuramente una certa curiosità nell'osservarvi da quassù ma a parte questo, i giorni e le notti si sono susseguite in un silenzio armonioso che era da tanto tempo che non sentivamo. 
+
+Tutto bene?
+
+[[La luce mi sembra diversa da come la conosco, come se non avesse fine]]
+[[L'aria ha un sapore strano e un peso insostenibile]]
+
+
+
+
+:: Quali eventi? {"position":"925,175","size":"100,100"}
 Come spiegarti? Sono successe parecchie cose da quanto te ne sei andato via. Difficile scegliere un punto di partenza in questa storia. Ora che ci penso non c'è mai stato un punto di partenza. Noi eravamo qui ancora prima di quella famosa "Parola" e di quel famoso "Principio". Ti sei mai chiesto se invece della "Parola" ci fosse stato il "Silenzio" in Principio? 
 Sarebbe stato tutto diverso o semplicemente uguale identico? 
 
@@ -81,50 +205,88 @@ Sarebbe stato tutto diverso o semplicemente uguale identico?
 
 
 
-:: Scelta Rorschach {"position":"100,400","size":"100,100"}
-Non c'è niente se non luce e suono. Questi sono gli ingredienti di questa storia. 
+:: Riassunto {"position":"800,900","size":"100,100"}
+Ok, ti basti sapere che l'umanità per come la conosci tu è scomparsa all'incirca 10.000 anni fa. Cause? Direi principalmente ''egosimo ipertrofico'' e una ''sfrenata tendenza all'autodistruzione''. Detto questo nel giro di qualche centinaio di anni siete scomparsi. 
+Se utilizzassimo la scala temporale universale si potrebbe dire che un giorno il sole è sorto e voi non c'eravate più. 
 
-[[Luce]] 
-[[Suono]]
+[[Puff, spariti]]
 
-
-:: Senti qualcosa in lontananza? {"position":"75,100","size":"100,100"}
-Un suono difficile da identificare, un suono opaco, privo di contorni. 
-Quasi  come se la nebbia avesse deciso di trasformarsi in suono. 
-
-[[Ti soffermi sul suono senza contorni]]
-[[Strane forme luminose appaiono sulle pareti nere dei tuoi occhi chiusi]]
+. 
 
 
-:: Strane forme luminose appaiono sulle pareti nere dei tuoi occhi chiusi {"position":"25,250","size":"100,100"}
-Cromosomi dorati si muovono velocemente sulle tue pupille chiuse. Macchie di luce appaiono e scompaiono senza lasciare il tempo di identificare la loro forma. 
-Ma è davvero necessario dover sempre dare una forma alle cose? E se questa storia stessa non avesse una forma ma soltanto orizzonti infiniti dove perdersi? 
-[[Cosa vedi in quelle macchie di luce?|Scelta Rorschach]]
+
+:: Sbaglio o quella laggiù è acqua? {"position":"925,2375","size":"100,100"}
+Si è acqua, mare per la precisione. 
 
 
-:: Suono {"position":"200,525","size":"100,100"}
-Ti concentri sugli altri suoni che ti circondano e lentamente metti a fuoco altre elementi dello spazio che ti circonda. 
-
-(set:$suono to 1)
-
-[[Luce Acustica]]
+:: Si, credo di si. Almeno ho dei ricordi {"position":"750,2150","size":"100,100"}
+I ricordi sono un escamotage per rendere il tempo meno lineare, peccato che abbiate dovuto impararlo a vostre spese... 
 
 
-:: Ti soffermi sul suono senza contorni {"position":"150,250","size":"100,100"}
-I suoni lontani non sono altro che la versione acustica delle macchie di Rorschach. Sono tutto o niente, indistinguibili nella loro non forma ma portatori di verità da svelare. 
-é così importante dover dare una forma precisa a tutto? E se la storia stessa non avesse forme ma solo spazi senza orizzonti in cui muoversi? 
-[[Cosa senti veramente in quel suono lontano?|Scelta Rorschach]]
+Dove preferisci andare?
+
+[[Vorrei vedere da più vicino quelle montagne]]
+[[Sbaglio o quella laggiù è acqua?]]
+
+
+:: Un'esistenza geometrica planare la nostra... {"position":"1100,2150","size":"100,100"}
+Il piano si può pensare idealmente come un cielo sottilissimo e di dimensioni infinite: il piano è l'idea, il concetto astratto. A differenza del cielo, però, il piano non ha spessore ed ha dimensioni infinite, quindi materialmente irrealizzabile. 
+Il tempo è un piano su cui ci appoggiamo.
+
+
+Dove preferisci andare?
+
+[[Vorrei vedere da più vicino quelle montagne]]
+[[Sbaglio o quella laggiù è acqua?]]
 
 
 :: Untitled Passage {"position":"800,50","size":"100,100"}
 "Nel principio era la parola, la Parola era con Dio e la Parola era Dio" 
 
-Stavo cercando di trovare un inizio accattivante per cominciare questa storia e citare la bibbia fa sempre la sua sporca figura. Anche se questa frase è sicuramente poco credibile visto come sono andate le cose... 
+Trovo ci sia una certa ironia in questa frase, soprattutto per come sono andati gli eventi... 
 
-[[Quali cose?]]
+[[Quali eventi?]]
 [[Ci conosciamo?]]
 
 
+
+
+:: Vorrei vedere da più vicino quelle montagne {"position":"675,2375","size":"100,100"}
+Era da tanto che non mi poggiavo su quelle cime. 
+
+
+:: ho sempre pensato che le nuvole fossero immortali {"position":"975,1975","size":"100,100"}
+Te l'ho detto, l'immortalità è un'illusione. il "Principio" e la "Fine" sono punti da collegare e la linea che ne viene fuori è quella che voi chiamavate "vita". Quando stacchi la penna dal foglio la linea si interrompe.
+
+La vostra concezione lineare del tempo che mi ha sempre colpito. Mi chiedo se le vostre ansie e paure fossero principalmente causate da questa visione semplicistica e geometrica del tempo. 
+
+[[Facile, tu non hai forme, sei l'emblema della mutazione. Per noi era difficile uscire dalla linearità dell'esistenza]]
+
+[[Un'esistenza geometrica planare la nostra...]]
+
+
+
+:: noi esseri umani ci siamo lasciati andare, guarda cosa è successo {"position":"650,2000","size":"100,100"}
+Lasciati andare? Direi che avete fatto esattamente il contrario. Avete forzato tutto ciò che potevate forzare. Avete pensato che tutto vi fosse dovuto. Vi siete inventati il concetto di "male" per poter giustificare la vostra stessa autodistruzione. 
+
+Ne è valsa la pena? 
+
+[[No, ma non c'era redenzione, eravamo condannati a vivere così perchè non abbiamo mai pensato potesse essere diverso]]
+[[Si, credo di si. Almeno ho dei ricordi]]
+
+
+:: nuvole che spariscono {"position":"800,1425","size":"100,100"}
+Non ci sono altro che tracce di ciò che fu, come conchiglie ormai smarrite sulla spiaggia.
+
+Regna il silenzio e l'inesorabile moto della natura.
+
+Anche le nuvole se ne sono andate, sono l'unica rimasta. 
+
+Sto lentamente morendo, ho bisogno di qualcuno con cui condividere i miei ultimi pensieri, per questo tu sei qui. 
+
+Dobbiamo muoverci. 
+
+[[Dove stiamo andando?]]
 
 
 :: StoryStylesheet [stylesheet]

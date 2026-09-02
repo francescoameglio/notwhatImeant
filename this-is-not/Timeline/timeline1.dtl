@@ -1,5 +1,32 @@
 [background arg="res://assets/img_line01.png" fade="1.0"]
-I would have never imagined that a cloud could contemplate on itself.
+"Nel principio era la parola, la Parola era con Dio e la Parola era Dio"
+Trovo ci sia una certa ironia in questa frase, soprattutto per come sono andati gli eventi...
+- Ci Conosciamo?
+	Si, ci conosciamo. Per la precisione ci siamo visti e rivisti migliaia di volte per tutta la nostra esistenza.
+	Io e te apparteniamo allo stesso mondo ma esistiamo su due scale di riferimento  diverse.
+	Mi chiedo se questa conversazione avrà mai un senso...
+	Noi eravamo lì ancora prima di quella famosa "Parola" e di quel famoso "Principio".
+	Se esiste un Principio esisterà anche una fine giusto? Ti sei mai chiesto se la "Parola" fosse la fine?
+	Ti sei mai chiesto se invece della "Parola" ci fosse stato il "Silenzio" in Principio?
+	jump Diverso o Identico
+	Sarebbe stato tutto diverso o semplicemente uguale identico?
+- Quali eventi?
+	Come spiegarti? Sono successe parecchie cose da quanto te ne sei andato via.
+	Difficile scegliere un punto di partenza in questa storia.
+	Ora che ci penso non c'è mai stato un punto di partenza.
+	Noi eravamo qui ancora prima di quella famosa "Parola" e di quel famoso "Principio".
+	Ti sei mai chiesto se invece della "Parola" ci fosse stato il "Silenzio" in Principio?
+	label Diverso o Identico
+	Sarebbe stato tutto diverso o semplicemente uguale identico?
+	- Identico
+		Ed è esattamente questa la prova inconfutabile che niente è eterno.
+		Per quanto possiamo sforzarci di ingannare il caso ci sarà sempre una fine.
+		Questo è il motivo per cui tu ora sei qui con me.
+		Per dimostrare che il "Principio" e la "Fine" sono due facce della stessa moneta e ne io, men che meno tu, siamo immortali.
+	- Diverso
+		Il silenzio e la parola non sono altro che due facce della stessa moneta.
+		Possiamo lanciarla in aria quante volte vogliamo, possiamo ingannarci che le cose sarebbero andate diversamente.
+		Per quanto ci sforziamo di ingannare il caso ci sarà sempre una fine
 [background arg="res://assets/img_line02.png" fade="0.0"]
 Being subject and object at the same time
 [signal arg="play_idle"]
@@ -17,3 +44,4 @@ What is time when you're just a mass of gas and water with no precise shape?
 I would like to talk about a couple of things with you if you don't mind...
 [background arg="res://assets/Test_Sprite.png" fade="0.0"]
 It won't take long, I promise
+<Empty Text Event>
