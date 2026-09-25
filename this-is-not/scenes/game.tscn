@@ -1,6 +1,5 @@
-[gd_scene load_steps=16 format=3 uid="uid://2lfep4fisyjc"]
+[gd_scene load_steps=15 format=3 uid="uid://2lfep4fisyjc"]
 
-[ext_resource type="Script" uid="uid://0si11p0p0h5k" path="res://scripts/typewrite.gd" id="1_uwrxv"]
 [ext_resource type="FontFile" uid="uid://b4thjvn5646wx" path="res://assets/fonts/DepartureMono-Regular.otf" id="1_yqjtg"]
 [ext_resource type="Script" uid="uid://bf6slyro887kn" path="res://scenes/button.gd" id="3_lnu2h"]
 [ext_resource type="Texture2D" uid="uid://dfldgaa3p7is6" path="res://assets/sprites/Sprite-0002.png" id="4_iywne"]
@@ -79,7 +78,7 @@ animations = [{
 
 [node name="Game" type="Node2D"]
 
-[node name="RichTextLabel2" type="RichTextLabel" parent="." node_paths=PackedStringArray("texture_rect")]
+[node name="RichTextLabel2" type="RichTextLabel" parent="."]
 visible = false
 offset_left = 359.0
 offset_top = 512.0
@@ -87,8 +86,6 @@ offset_right = 836.0
 offset_bottom = 595.0
 theme_override_fonts/normal_font = ExtResource("1_yqjtg")
 theme_override_font_sizes/normal_font_size = 20
-script = ExtResource("1_uwrxv")
-texture_rect = NodePath("../TextureRect")
 metadata/_edit_use_anchors_ = true
 
 [node name="Background" type="ColorRect" parent="."]

@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://dkxwc0k615jrk"]
 
 [ext_resource type="PackedScene" uid="uid://dhw4n6jqrgnkh" path="res://scenes/Slot_Node.tscn" id="1_tsarw"]
-[ext_resource type="Texture2D" uid="uid://c6bcxwtnn7x61" path="res://assets/FloppyDisk.png" id="2_bh46f"]
+[ext_resource type="Texture2D" uid="uid://c6bcxwtnn7x61" path="res://assets/Old_Images/FloppyDisk.png" id="2_bh46f"]
 
 [node name="TestMouseHover" type="Node2D"]
 

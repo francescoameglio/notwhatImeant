@@ -1,7 +1,8 @@
-[background arg="res://assets/img_line01.png" fade="1.0"]
+[background arg="res://assets/Timeline_01_Imgs/img_01.png" fade="1.0"]
 "Nel principio era la parola, la Parola era con Dio e la Parola era Dio"
 Trovo ci sia una certa ironia in questa frase, soprattutto per come sono andati gli eventi...
 - Ci Conosciamo?
+	[background arg="res://assets/Timeline_01_Imgs/img_02.png" fade="0.0"]
 	Si, ci conosciamo. Per la precisione ci siamo visti e rivisti migliaia di volte per tutta la nostra esistenza.
 	Io e te apparteniamo allo stesso mondo ma esistiamo su due scale di riferimento  diverse.
 	Mi chiedo se questa conversazione avrà mai un senso...
@@ -11,6 +12,7 @@ Trovo ci sia una certa ironia in questa frase, soprattutto per come sono andati 
 	jump Diverso o Identico
 	Sarebbe stato tutto diverso o semplicemente uguale identico?
 - Quali eventi?
+	[background arg="res://assets/Timeline_01_Imgs/img_02.png" fade="0.0"]
 	Come spiegarti? Sono successe parecchie cose da quanto te ne sei andato via.
 	Difficile scegliere un punto di partenza in questa storia.
 	Ora che ci penso non c'è mai stato un punto di partenza.

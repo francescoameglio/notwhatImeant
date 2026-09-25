@@ -7,10 +7,11 @@ var is_typing: bool = false
 var current_line: int = 0
 
 var dialogue = [
-	{ "text": "Iwish I had more things to say but it feels so empty now...", "image": preload("res://assets/img_line01.png") },
+	{ "text": "I wish I had more things to say but it feels so empty now...", "image": preload("res://assets/img_line01.png") },
 	{ "text": "The only thing I can do is showing weird images", "image": preload("res://assets/img_line02.png") },
 	{ "text": "Sometimes I wonder if you feel the same.", "image": preload("res://assets/img_line03.png") },
 ]
+
 
 func _ready():
 	texture_rect.texture = dialogue[0].image
